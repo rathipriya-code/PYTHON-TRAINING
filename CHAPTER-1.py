@@ -1,3 +1,9 @@
+'''
+"Python Learning"
+Learning: "BASIC-OOPS-concept-Class,Object,method,function"
+DAY01-Task
+
+'''
 class Class_A:
     def __init__(self, name,age,standard,total_marks,grade,gender):
         self.name=name
