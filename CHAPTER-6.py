@@ -1,3 +1,12 @@
+'''
+"Python Learning"
+Learning: "DUCK DUCK GO SEARCH "
+
+Example: Searching and Getting google URL'S By using "DDGS"
+
+'''
+
+
 from ddgs import DDGS
 
 print("Searching...")
