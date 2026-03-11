@@ -2,7 +2,7 @@
 "Python Learning"
 Learning: "OOPS-concept-Class,Object,method,function-with
  CAR PURCHASING EXAMPLE"
-DAY01-Task
+
 
 '''
 class Car_customers:
